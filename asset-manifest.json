@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BitKai/static/css/main.54ead2bc.css",
-    "main.js": "/BitKai/static/js/main.524bd26d.js",
+    "main.js": "/BitKai/static/js/main.1eea26f0.js",
     "static/js/787.887c022c.chunk.js": "/BitKai/static/js/787.887c022c.chunk.js",
     "index.html": "/BitKai/index.html",
     "main.54ead2bc.css.map": "/BitKai/static/css/main.54ead2bc.css.map",
-    "main.524bd26d.js.map": "/BitKai/static/js/main.524bd26d.js.map",
+    "main.1eea26f0.js.map": "/BitKai/static/js/main.1eea26f0.js.map",
     "787.887c022c.chunk.js.map": "/BitKai/static/js/787.887c022c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54ead2bc.css",
-    "static/js/main.524bd26d.js"
+    "static/js/main.1eea26f0.js"
   ]
 }
