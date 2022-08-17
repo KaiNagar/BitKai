@@ -1,0 +1,32 @@
+.home-page {
+  font-size: rem(25px);
+  text-align: left;
+  height: 100%;
+  background-color: lighten($clr-main,70%);
+  border-left: 1px solid $clr-MLight;
+  border-right: 1px solid $clr-MLight;
+
+  .user-info{
+    margin-bottom: 1rem ;
+    .user-img {
+      border: 1px solid $clr-Lgrey;
+      border-radius: rem(10px);
+      width: 300px;
+      margin-top: 2rem;
+      box-shadow:  0 1px 5px $clr-Lgrey;
+    }
+    
+  }
+  .coins-info{
+
+    .icon{
+      width: 30px;
+      margin-inline-end: 1rem;
+    }
+    .coin-icon-con{
+      display: flex;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+  }
+}

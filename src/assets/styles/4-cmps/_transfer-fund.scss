@@ -1,0 +1,33 @@
+.transfer-action {
+  background-color: $clr-main;
+  padding: 1rem;
+  color: $clr-white;
+  border-radius: rem(8px);
+  .transfer-title {
+    margin-block-end: 1rem;
+  }
+  form {
+    width: 100%;
+    font-size: rem(18px);
+    label {
+      margin-inline-end: 2rem;
+    }
+    input {
+      flex-grow: 1;
+    }
+    button {
+      margin-inline-start: 2rem;
+      background-color: $clr-secondary;
+      border: 0;
+      border-radius: rem(8px);
+      padding: 4px 8px;
+      font-size: rem(18px);
+      color: $clr-white;
+      font-weight: 600;
+      letter-spacing: 1px;
+    }
+  }
+  .alert {
+    color: $clr-warning;
+  }
+}
