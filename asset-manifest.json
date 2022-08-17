@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BitKai/static/css/main.744afe27.css",
-    "main.js": "/BitKai/static/js/main.2d74d836.js",
+    "main.js": "/BitKai/static/js/main.f0f56368.js",
     "static/js/787.887c022c.chunk.js": "/BitKai/static/js/787.887c022c.chunk.js",
     "static/media/btc.png": "/BitKai/static/media/btc.499c066e1d36a81dc2ad.png",
     "static/media/coins.png": "/BitKai/static/media/coins.79fd0666a758c243142a.png",
@@ -14,11 +14,11 @@
     "static/media/back.png": "/BitKai/static/media/back.777a208fda10708200f5.png",
     "index.html": "/BitKai/index.html",
     "main.744afe27.css.map": "/BitKai/static/css/main.744afe27.css.map",
-    "main.2d74d836.js.map": "/BitKai/static/js/main.2d74d836.js.map",
+    "main.f0f56368.js.map": "/BitKai/static/js/main.f0f56368.js.map",
     "787.887c022c.chunk.js.map": "/BitKai/static/js/787.887c022c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.744afe27.css",
-    "static/js/main.2d74d836.js"
+    "static/js/main.f0f56368.js"
   ]
 }
