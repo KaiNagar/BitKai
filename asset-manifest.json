@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/BitKai/static/css/main.54ead2bc.css",
-    "main.js": "/BitKai/static/js/main.1eea26f0.js",
+    "main.css": "/BitKai/static/css/main.744afe27.css",
+    "main.js": "/BitKai/static/js/main.2d74d836.js",
     "static/js/787.887c022c.chunk.js": "/BitKai/static/js/787.887c022c.chunk.js",
+    "static/media/btc.png": "/BitKai/static/media/btc.499c066e1d36a81dc2ad.png",
+    "static/media/coins.png": "/BitKai/static/media/coins.79fd0666a758c243142a.png",
+    "static/media/home.png": "/BitKai/static/media/home.e0fe0af761b15e94f199.png",
+    "static/media/contacts.png": "/BitKai/static/media/contacts.219346e4b72cc7c271b2.png",
+    "static/media/stats.png": "/BitKai/static/media/stats.2895b1460f7ac9399bf5.png",
+    "static/media/edit.png": "/BitKai/static/media/edit.20b23789e3450cf5cf5f.png",
+    "static/media/add.png": "/BitKai/static/media/add.b3120687d3118e5ed136.png",
+    "static/media/trash.png": "/BitKai/static/media/trash.def8b402ea7e9388f550.png",
+    "static/media/back.png": "/BitKai/static/media/back.777a208fda10708200f5.png",
     "index.html": "/BitKai/index.html",
-    "main.54ead2bc.css.map": "/BitKai/static/css/main.54ead2bc.css.map",
-    "main.1eea26f0.js.map": "/BitKai/static/js/main.1eea26f0.js.map",
+    "main.744afe27.css.map": "/BitKai/static/css/main.744afe27.css.map",
+    "main.2d74d836.js.map": "/BitKai/static/js/main.2d74d836.js.map",
     "787.887c022c.chunk.js.map": "/BitKai/static/js/787.887c022c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54ead2bc.css",
-    "static/js/main.1eea26f0.js"
+    "static/css/main.744afe27.css",
+    "static/js/main.2d74d836.js"
   ]
 }
