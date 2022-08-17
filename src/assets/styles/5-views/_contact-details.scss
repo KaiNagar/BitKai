@@ -1,0 +1,53 @@
+.contact-details {
+  background-color: lighten($clr-main, 70%);
+  border-left: 1px solid $clr-MLight;
+  border-right: 1px solid $clr-MLight;
+  height: 100%;
+  .c-top {
+    @media only screen and (max-width: $mobile-breakpoint) {
+      flex-direction: column;
+    }
+  }
+  .c-img {
+    border: 1px solid $clr-Lgrey;
+    border-radius: rem(10px);
+    width: 300px;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    box-shadow: 0 1px 5px $clr-Lgrey;
+  }
+  .contact-info {
+    font-size: rem(24px);
+    margin-inline-start: 1rem;
+    margin-block-start: 1rem;
+    .c-name,
+    .c-phone,
+    .c-email {
+      font-weight: bold;
+    }
+    .tab {
+      margin-block: 10px;
+    }
+    .contact-actions {
+      width: 100%;
+    }
+  }
+  .b-btn {
+    background-color: transparent;
+    border: 0;
+    .back-img {
+      width: 35px;
+    }
+    .trash-img {
+      width: 35px;
+      margin-inline-start: rem(10px);
+    }
+    img {
+      width: 40px;
+    }
+    &:hover {
+      opacity: 0.6;
+      text-decoration: none;
+    }
+  }
+}

@@ -1,0 +1,25 @@
+.contact-page {
+  height: 100%;
+  background-color: lighten($clr-main, 70%);
+  border-left: 1px solid $clr-MLight;
+  border-right: 1px solid $clr-MLight;
+  .title {
+    text-align: center;
+    font-size: rem(24px);
+    font-weight: bold;
+    color: $clr-secondary;
+  }
+  .list-header {
+    width: 100%;
+    border-bottom: 1px solid $clr-Lgrey;
+    .add-c {
+        padding-inline-end: 20px;
+        &:hover{
+            opacity: 0.6;
+        }
+      img {
+        width: 50px;
+      }
+    }
+  }
+}

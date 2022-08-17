@@ -1,0 +1,16 @@
+.c-filter {
+  display: flex;
+  flex-grow: 1;
+  
+  .search-contact {
+    width: 100%;
+    padding: 10px;
+    font-size: rem(20px);
+    color: rgb(17, 17, 80);
+    border-radius: rem(10px);
+    border: 1px solid $clr-Lgrey;
+    &:focus {
+      outline: 2px solid $clr-MLight;
+    }
+  }
+}

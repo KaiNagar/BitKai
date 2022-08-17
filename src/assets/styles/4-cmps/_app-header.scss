@@ -1,0 +1,32 @@
+.app-header-container {
+  background-color: $clr-SLight;
+  color: $clr-secondary;
+  box-shadow: inset 0px -3px 6px $clr-secondary;
+  .app-header {
+    padding: 10px;
+    .logo img {
+      width: 120px;
+    }
+    .header-nav {
+      gap: 2rem;
+      .nav-btn {
+        font-size: rem(24px);
+        &:hover {
+          transform: scale(1.1);
+          transition: all 0.3s;
+        }
+      }
+      .drk-mode {
+        background-color: transparent;
+        border: 0;
+        color: $clr-secondary;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+      img {
+        width: 40px;
+      }
+    }
+  }
+}
