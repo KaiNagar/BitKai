@@ -143,7 +143,7 @@ function sort(arr) {
 
 function getContacts(filterBy = null) {
   let checkContacts = utilService.loadFromStorage(CONTACT_KEY)
-  if (!checkContacts && !checkContacts.length) {
+  if (!checkContacts && !checkContacts?.length) {
     checkContacts = contacts
     utilService.saveToStorage(CONTACT_KEY, checkContacts)
   }
